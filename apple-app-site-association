@@ -1,20 +1,20 @@
 {
     "webcredentials": {
         "apps": [
-            "4F7SW76LL6.com.di.AutoPassword-iOS12",
-            "4F7SW76LL6.com.di.AutoPassword-iOS12.QA",
-            "4F7SW76LL6.com.di.AutoPassword-iOS12.Dev"
+            "victorshp30-gmail.com.prestapp.AutoPassword-iOS12",
+            "victorshp30-gmail.com.prestapp.AutoPassword-iOS12.QA",
+            "victorshp30-gmail.com.prestapp.AutoPassword-iOS12.Dev"
         ]
     },
     "applinks": {
         "apps": [
-            "4F7SW76LL6.com.di.AutoPassword-iOS12",
-            "4F7SW76LL6.com.di.AutoPassword-iOS12.QA",
-            "4F7SW76LL6.com.di.AutoPassword-iOS12.Dev"
+            "victorshp30-gmail.com.prestapp.AutoPassword-iOS12",
+            "victorshp30-gmail.com.prestapp.AutoPassword-iOS12.QA",
+            "victorshp30-gmail.com.prestapp.AutoPassword-iOS12.Dev"
         ],
         "details": [
             {
-                "appID": "4F7SW76LL6.com.di.AutoPassword-iOS12",
+                "appID": "victorshp30-gmail.com.prestapp.AutoPassword-iOS12",
                 "paths": [
                     "*"
                 ]
